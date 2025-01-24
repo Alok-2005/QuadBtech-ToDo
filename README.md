@@ -4,16 +4,14 @@ Welcome to the Advanced React To-Do Application! This project showcases my skill
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Installation Instructions](#installation-instructions)
-5. [Usage](#usage)
-6. [API Integration](#api-integration)
-7. [Screenshots](#screenshots)
-8. [Live Demo](#live-demo)
-9. [Contributing](#contributing)
-10. [Contact](#contact)
+1. [Project Overview]
+2. [Features]
+3. [Technologies Used]
+4. [Installation Instructions]
+5. [Usage]
+6. [API Integration]
+7. [Screenshots]
+8. [Live Demo](https://quad-btech-to-do.vercel.app/)
 
 ## Project Overview
 
@@ -46,3 +44,12 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/react-todo-app.git
 cd react-todo-app
+```
+### ScreenShots
+![image](https://github.com/user-attachments/assets/fc10fdb2-1f16-4656-847f-22eef29ff87b)
+![image](https://github.com/user-attachments/assets/1da0b23b-1b5b-4013-87ff-406bb3f13190)
+![image](https://github.com/user-attachments/assets/c7cabea4-07d6-4604-968e-816c95c98fbf)
+![image](https://github.com/user-attachments/assets/87550129-970c-4bee-90c4-a3da825f3a9e)
+![image](https://github.com/user-attachments/assets/81648bf9-6a27-4ae9-9251-01468650dad7)
+
+
